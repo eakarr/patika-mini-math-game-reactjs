@@ -4,6 +4,8 @@
 
 **Known Issues** : Some CSS and Responsiveness bugs.
 
+**Live Version** : https://patika-mini-math-game-reactjs.vercel.app/
+
 **Screenshots** :
 
 ![StartPage](https://user-images.githubusercontent.com/93548218/162594152-98530dc0-df99-4d26-8723-bca78f3dfd67.png)
